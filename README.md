@@ -1,5 +1,10 @@
 # HANSKA OMEN Performance Hub
 
+## Screenshot
+
+![HANSKA OMEN Performance Hub showing live fan RPM readings and Ubuntu power presets](assets/omen-performance-hub.png)
+
+
 ## Screenshots
 
 ![HANSKA OMEN Performance Hub showing live fan RPM readings and Ubuntu power presets](assets/omen-performance-hub.png)
