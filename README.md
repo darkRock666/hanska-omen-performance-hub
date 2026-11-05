@@ -1,5 +1,9 @@
 # HANSKA OMEN Performance Hub
 
+## Screenshots
+
+![HANSKA OMEN Performance Hub showing live fan RPM readings and Ubuntu power presets](assets/omen-performance-hub.png)
+
 A Linux desktop panel for supported HP OMEN and Victus laptops. It reads fan and platform-profile information from Linux sysfs and lets the user request supported fan modes and Ubuntu power profiles.
 
 ## Features
